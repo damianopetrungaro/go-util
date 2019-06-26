@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/metaleap/go-util/fs"
+	"github.com/damianopetrungaro/go-util/fs"
 )
 
 var (

@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/metaleap/go-util/fs"
-	"github.com/metaleap/go-util/run"
-	"github.com/metaleap/go-util/slice"
+	"github.com/damianopetrungaro/go-util/fs"
+	"github.com/damianopetrungaro/go-util/run"
+	"github.com/damianopetrungaro/go-util/slice"
 )
 
 var (

@@ -7,12 +7,12 @@ import (
 
 	gurujson "golang.org/x/tools/cmd/guru/serial"
 
-	"github.com/metaleap/go-util"
-	"github.com/metaleap/go-util/dev"
-	"github.com/metaleap/go-util/fs"
-	"github.com/metaleap/go-util/run"
-	"github.com/metaleap/go-util/slice"
-	"github.com/metaleap/go-util/str"
+	"github.com/damianopetrungaro/go-util"
+	"github.com/damianopetrungaro/go-util/dev"
+	"github.com/damianopetrungaro/go-util/fs"
+	"github.com/damianopetrungaro/go-util/run"
+	"github.com/damianopetrungaro/go-util/slice"
+	"github.com/damianopetrungaro/go-util/str"
 )
 
 type Gogetdoc struct {
